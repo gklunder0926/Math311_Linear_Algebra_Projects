@@ -10,3 +10,6 @@ https://github.com/awangberg/Math311_Linear_algebra_code_projects/blob/master/Ma
 
 2. The Ski Hill Example: Modeling future behavior using transition matrices.
 https://github.com/gklunder0926/Math311_Linear_Algebra_Projects/blob/main/Grace's_copy_of_The_Ski_Hill_Transition_Matrices_and_Markov_Chains.ipynb
+
+3. Sports Team Rankings
+https://colab.research.google.com/drive/12zYSkzH43yaoRJscWig04jKLyCsOFyV0#scrollTo=dCB31bhvTulU 
