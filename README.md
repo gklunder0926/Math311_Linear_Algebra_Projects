@@ -12,8 +12,8 @@ https://github.com/awangberg/Math311_Linear_algebra_code_projects/blob/master/Ma
 https://github.com/gklunder0926/Math311_Linear_Algebra_Projects/blob/main/Grace's_copy_of_The_Ski_Hill_Transition_Matrices_and_Markov_Chains.ipynb
 
 3. Secret Number: Decoding a secret polynomial from data points using linear algebra.
-https://colab.research.google.com/drive/129GPRgeJ3jc_6jDeYpSjTFh6mx4w61fv
+https://github.com/gklunder0926/Math311_Linear_Algebra_Projects/blob/main/Grace's_Copy_of_Math_311_secret_number.ipynb
 
-3. Sports Teams Rankings: Using game data to rank the strength of teams using linear algebra.
-https://colab.research.google.com/drive/12zYSkzH43yaoRJscWig04jKLyCsOFyV0#scrollTo=dCB31bhvTulU
+4. Sports Teams Rankings: Using game data to rank the strength of teams using linear algebra.
+https://github.com/gklunder0926/Math311_Linear_Algebra_Projects/blob/main/Grace's_Copy_of_Sports_Teams_Rankings.ipynb
 
